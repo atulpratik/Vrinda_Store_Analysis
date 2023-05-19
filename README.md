@@ -35,6 +35,3 @@ Visualizations play a crucial role in presenting the analyzed data in a visually
 3. **Pivot Charts:** Created based on pivot tables, allowing for dynamic analysis and visual representation of summarized data.
 
 These visualizations aim to provide a comprehensive overview of the data and highlight key findings and trends.
-
-## Final DashBoard
-![DashBoard](https://drive.google.com/file/d/1yCsVJEme1wxDgXQcfF9yOOv0v-Wwja41/view?usp=share_link)
